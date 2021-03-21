@@ -1,0 +1,57 @@
+.card{
+    height: 370px;
+}
+.card-title1{
+    padding-top: 70px;
+    text-align: center;
+}
+.card-title2{
+    text-align: center;
+    padding-top: 20px;
+}
+.card-img-top1{
+    height: 300px;
+    padding-top: 10px;
+}
+.card-title3{
+    text-align: center;
+    padding-top: 20px;
+}
+.card-title4{
+    text-align: center;
+    padding-top: 20px;
+}
+.card-title5{
+    text-align: center;
+    padding-top: 20px;
+}
+.card-title6{
+    padding-top: 20px;
+    text-align: center;
+}
+.card-title7{
+    text-align: center;
+    padding-top: 20px;
+}
+.card-title8{
+    text-align: center;
+    /* padding-top: px; */
+}
+.containerClients{
+    text-align: center;
+    padding-top: 90px;
+}
+.ClientsPara{
+    text-align: justify;
+    /* background-color: rgb(237, 250, 249); */
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 70px;
+    line-height: 40px;
+}
+.clImage{
+    /* padding-top: 30px; */
+    width: 90%;
+    height: 330px;
+}
